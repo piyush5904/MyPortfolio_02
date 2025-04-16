@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piyush Puru - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Piyush Puru</h1>
+            <p>Computer Science Student | Developer | Science Enthusiast | Creative Thinker</p>
+        </div>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a passionate Computer Science and Engineering student at VIT-AP University with a strong interest in coding, science (especially Physics), and real world problem-solving. I am constantly exploring new technologies and love working on innovative projects. With a deep enthusiasm for both technical excellence and creative and logical thinking, I aim to develop impactful solutions.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>My Projects</h2>
+        <div class="project">
+            <h3>NutriSync - AI-Driven Health App</h3>
+            <p>NutriSync is a cutting-edge digital health application that offers personalized diet and fitness recommendations. It features AI-driven deficiency detection, budget-based meal plans, and wearable integration, helping users achieve their health goals effectively.</p>
+        </div>
+        <div class="project">
+            <h3>Online Retail Store Simulation</h3>
+            <p>A Java-based e-commerce system that simulates an online retail store, featuring an inheritance-based architecture for managing products such as Electronics and Clothing.</p>
+        </div>
+        <div class="project">
+            <h3>Employee Work Hours Tracker</h3>
+            <p>An application that tracks work hours for different types of employees (Full-time, Part-time, and Freelancers) and calculates their pay using polymorphic payment strategies.</p>
+        </div>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python Programming</li>
+            <li>Java Programming</li>
+            <li>R Programming</li>
+            <li>SQL & Database Management</li>
+            <li>Data Structures & Algorithms</li>
+            <li>Object-Oriented Programming (OOP)</li>
+            <li>Creative Problem Solving</li>
+        </ul>
+    </section>
+    
+    <section id="hobbies">
+        <h2>Hobbies & Interests</h2>
+        <ul>
+            <li>Sports Enthusiast – I love playing and watching various sports.</li>
+            <li>Science & Physics – Fascinated by scientific discoveries and physics concepts.</li>
+            <li>Reading & Writing – I enjoy writing creatively and participating in competitions.</li>
+            <li>Drawing & Art – Expressing creativity through sketches and digital illustrations.</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: piyushpuru123@gmail.com</p>
+        <p>LinkedIn: <a href="#">www.linkedin.com/in/piyush-puru-b284b6294</a></p>
+        <p>GitHub: <a href="#">https://github.com/piyush5904</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Piyush Puru. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
